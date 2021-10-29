@@ -1,0 +1,21 @@
+  #titulo {
+        text-align: center;
+        font-family: 'Brush Script MT', cursive;
+        font-size: 80px;
+    }
+    
+    p {
+        font-size: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+    
+    .imagem {
+        display: block;
+        margin: auto;
+        padding-bottom: 30px;
+    }
+    
+    body {
+        background-color: #DDE0D7;
+    }
