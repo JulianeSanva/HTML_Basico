@@ -1,0 +1,22 @@
+#p1 {
+    color: pink;
+    border: 4px dotted lightgreen;
+}
+
+#p2 {
+    color: #CF9AF4;
+    border: 4px solid lightpink;
+}
+
+.paragrafodiferenciado {
+    color: #EE4F57;
+    font-size: 15px;
+}
+
+p {
+    color: indigo;
+}
+
+footer {
+    background-color: teal;
+}
